@@ -1,5 +1,4 @@
 .intro__quote-author{
-
     width:calc(100% - 95px);
     font-style: normal;
     font-size: 24px;
@@ -9,17 +8,10 @@
     line-height: 34px;
     margin: 0;
     padding: 0;
-    
 }
-
 @media screen and (max-width: 498px){
-
     .intro__quote-author{
-    
         min-width: 288px;
-       margin:40px auto 0;
-       border: 1px solid red;
-          
-    }
-        
- }
+        margin:40px auto 0;
+   }
+}

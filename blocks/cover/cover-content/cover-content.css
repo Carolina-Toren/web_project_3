@@ -1,16 +1,10 @@
 .cover-content{
-
     width: 656px;
     height: 254px;
-    
     margin: auto;
 }
-
-
 @media screen and (max-width: 659px) {
-
     .cover-content{
-    min-width: 100%;
-    }
-    
+        min-width: 100%;
+   }
 }

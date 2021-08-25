@@ -1,23 +1,17 @@
 @import url(./__logo/header__logo.css);
-@import url(./__list/header__list.css);
-@import url(./__rectangle/header__rectangle.css);
-@import url(./__header/header__header.css);
-@import url(../rectangle/rectangle.css);
-.header{
-
-    margin: 0 auto 92px;
-    padding: 0;
-    max-width: 272px; /*added 1px to the width, because the design wasn't centered */
-  
-    
+ @import url(./__list/header__list.css);
+ @import url(./__rectangle/header__rectangle.css);
+ @import url(./__header/header__header.css);
+ @import url(../rectangle/rectangle.css);
+ .header{
+     margin: 0 auto 92px;
+     padding: 0;
+     max-width: 272px;
+    /*added 1px to the width, because the design wasn't centered */
 }
-
-@media screen and ( max-with:350px ) {
-
-    .header{
-        
-    max-width: 200px;
+ @media screen and ( max-with:350px ) {
+     .header{
+         max-width: 200px;
+    }
 }
-
-}
-
+ 

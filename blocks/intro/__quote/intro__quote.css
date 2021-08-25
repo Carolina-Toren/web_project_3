@@ -1,5 +1,4 @@
 .intro__quote{
-
    width:calc(100% - 95px);
    font-weight: normal;
    font-style: normal;
@@ -7,20 +6,11 @@
    line-height: 142%;
    margin-top: 40px;
    margin-bottom: 10px;
-   
-
 }
-
-
 @media screen and (max-width: 498px){
-
    .intro__quote{
-   
-      border: 1px solid red;
-      line-height: 125%;
-      margin:40px auto 0;
-      min-width: 288px;
-      
-   }
-       
+       line-height: 125%;
+       margin:40px auto 0;
+       min-width: 288px;
+  }
 }

@@ -1,5 +1,4 @@
 .intro__text{
-
     width:calc(100% - 95px);
     font-style: normal;
     font-weight: normal;
@@ -7,19 +6,10 @@
     line-height: 163%;
     margin-top: 32px;
     padding: 0;
-    
-
 }
-
-
 @media screen and (max-width: 498px){
-
     .intro__text{
-    
-    min-width: 288px;
-    margin:40px auto 0;
-    border: 1px solid red;
-
-    }
-        
- }
+        min-width: 288px;
+        margin:40px auto 0;
+   }
+}

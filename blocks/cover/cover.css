@@ -1,49 +1,35 @@
 @import url(./cover-content/cover-content.css);
-@import url(./cover-title/cover-title.css);
-@import url(./cover-quote/cover-quote.css);
-@import url(../button/button.css);
-@import url(./cover-link/cover-link.css);
-@import url(./__button/cover__button.css);
-.cover{
-
-    background-image: url(../../images/background.jpg);
-    width: calc(100% - 96px);
-    height: 740px;
-    background-position: center;
-    background-size: cover;
-    text-align: center;
-    display: flex;
-    margin: 0 auto;
-    
+ @import url(./cover-title/cover-title.css);
+ @import url(./cover-quote/cover-quote.css);
+ @import url(../button/button.css);
+ @import url(./cover-link/cover-link.css);
+ @import url(./__button/cover__button.css);
+ .cover{
+     background-image: url(../../images/background.jpg);
+     width: calc(100% - 96px);
+     height: 740px;
+     background-position: center;
+     background-size: cover;
+     text-align: center;
+     display: flex;
+     margin: 0 auto;
 }
-
-.cover:hover{
-    background-color: #2A2C2F;
-    opacity: 0.8;
+ .cover:hover{
+     background-color: #2A2C2F;
+     opacity: 0.8;
 }
-
-@media screen and (max-width:860px){
-
-    .cover{
-        
-        margin: 0;
-        min-width:100%;
-        max-height: 747px;
-        background-size: contain;
-        background-repeat: no-repeat;
-
+ @media screen and (max-width:860px){
+     .cover{
+         margin: 0;
+         min-width:100%;
+         max-height: 747px;
+         background-size: contain;
+         background-repeat: no-repeat;
     }
-    
 }
-
-
-@media screen and (max-width:360px){
-
-    .cover{
-        
-        background-size: 100% 100%;
-        max-height: 254px;
-
+ @media screen and (max-width:360px){
+     .cover{
+         background-size: 100% 100%;
+         max-height: 254px;
     }
-    
 }

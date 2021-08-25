@@ -1,16 +1,9 @@
 .photo-grid__image{
-
     width: 100%;
-    
 }
-
-@media screen and (max-width: 659px){
-
+@media screen and (max-width: 400px){
     .photo-grid__image{
-    
         max-width: 288px;
-        margin:0 auto 12px;
-           
-    }
-        
+        margin:0 16px 12px;
+   }
 }

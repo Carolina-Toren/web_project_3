@@ -1,33 +1,18 @@
 @import url(../../rectangle/rectangle.css);
-
-
-.header__rectangle{
-
-    background-color: #0278FE;
-   
-    display: grid;
-    
-    
-
+ .header__rectangle{
+     background-color: #0278FE;
+     display: grid;
 }
-
-.header__rectangle:nth-child(1)
-{
-    grid-row: 1;
-    border-radius: 2px 2px 0 0;
-    
-
+ .header__rectangle:nth-child(1) {
+     grid-row: 1;
+     border-radius: 2px 2px 0 0;
 }
-
-.header__rectangle:nth-child(2){
-    grid-row: 2;
-    border-radius: 0 0 0 2px;
-    
-
-    
+ .header__rectangle:nth-child(2){
+     grid-row: 2;
+     border-radius: 0 0 0 2px;
 }
-.header__rectangle:nth-child(3){
-    grid-row: 2;
-    border-radius: 0 0 2px 0;
+ .header__rectangle:nth-child(3){
+     grid-row: 2;
+     border-radius: 0 0 2px 0;
 }
-
+ 

@@ -1,19 +1,13 @@
 .lead__image{
-
     filter: grayscale(100%);
     width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
     object-fit: fill;
-
 }
-
 @media screen and (max-width: 860px) {
-
     .lead.lead__image{
-
-       max-width: 100%;
-    }
-    
+        max-width: 100%;
+   }
 }
