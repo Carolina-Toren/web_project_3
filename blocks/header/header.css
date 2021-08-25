@@ -9,7 +9,7 @@
      max-width: 272px;
     /*added 1px to the width, because the design wasn't centered */
 }
- @media screen and ( max-with:350px ) {
+ @media screen and (max-width:350px ) {
      .header{
          max-width: 200px;
     }
