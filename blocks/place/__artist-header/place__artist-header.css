@@ -1,0 +1,22 @@
+.place__artist-header{
+
+    color: #AAAAAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+@media screen and (max-width: 320px) {
+
+    .place__artist-header{
+        
+       line-height: 100%;
+       margin-bottom: 12px;
+
+    }
+    
+}

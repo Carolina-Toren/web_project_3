@@ -1,0 +1,35 @@
+.button__nft{
+
+    border: none;
+    background-color: #0278FE;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    width: 248px;
+    height: 48px;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 13px 20px;
+    
+}
+
+
+.button__nft:hover{
+
+    background-color:#0063D2;
+}
+
+@media screen and (max-width: 320px) {
+
+    .button__nft{
+        
+        
+  
+      
+
+    }
+    
+}

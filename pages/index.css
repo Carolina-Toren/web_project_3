@@ -1,0 +1,12 @@
+@import url(../blocks/page/page.css);
+@import url(../vendor/fonts/fonts.css);
+
+
+.page{
+    background-color: #2A2C2F;
+    
+
+
+    font-family: 'Inter', 'sans-serif';
+
+}

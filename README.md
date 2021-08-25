@@ -1,4 +1,4 @@
-# Project 3: From Portland to Portland
+# Project 3: From Homland to Homeland
 
 ### Overview
 * Intro

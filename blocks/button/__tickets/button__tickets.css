@@ -1,0 +1,27 @@
+
+.button__tickets{
+    border: none;
+    background-color: #0278FE;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    height: 48px;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 13px 20px;
+    
+}
+
+@media screen and (max-width: 390px) {
+
+    .button__tickets{
+        
+    margin: 0 auto 45px;
+        
+    }
+    
+}
+

@@ -1,0 +1,55 @@
+
+@import url(./__link-box/place__link-box.css);
+@import url(./__artist-header/place__artist-header.css);
+@import url(./__artist-name/place__artist-name.css);
+@import url(./__title/place__title.css);
+@import url(./__website/place__website.css);
+@import url(./__image/place__image.css);
+@import url(./__paragraph/place__paragraph.css);
+@import url(./__text/place__text.css);
+@import url(../button/button.css);
+@import url(./__image-container/place__image-container.css);
+@import url(./__button/place__button.css);
+.place{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 460px 1fr;
+    margin: 0 0 80px;
+    grid-column-gap: 40px;
+    grid-template-areas:
+
+    "title website"
+    "img text"
+    "btn text"  
+    ;
+}
+
+
+.place:last-child{
+
+    margin-bottom: 0 ;
+}
+
+
+
+@media screen and (max-width: 860px){
+
+    .place{
+
+        grid-column-gap: 28px;
+       
+    }
+    
+    }
+
+@media screen and (max-width: 550px){
+
+    .place{
+    
+        display: flex;
+        flex-direction: column;
+           
+    }
+        
+}

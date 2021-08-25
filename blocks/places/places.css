@@ -1,0 +1,30 @@
+@import url(./__list/places__list.css);
+.places{
+    
+    max-width:77.1%;
+    margin: 92px auto ;
+    padding: 0;
+    display: flex;
+    max-width: 987px;
+      
+}
+
+
+@media screen and (max-width: 860px){
+
+.places{
+   max-width: calc(100% - 48px) ;
+}
+
+}
+
+
+@media screen and (max-width:320px){
+
+    .places{
+       max-width: 100% ;
+    }
+    
+    }
+
+
