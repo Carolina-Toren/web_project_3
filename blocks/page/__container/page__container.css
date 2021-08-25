@@ -8,7 +8,7 @@
 }
 @media screen and( max-with:860px ) {
     .page__container{
-        margin:0 ;
+        margin:0;
    }
 }
 @media screen and( max-with:350px ) {

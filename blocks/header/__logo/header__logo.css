@@ -5,7 +5,7 @@
     grid-template-rows: 6px 24px;
     grid-template-columns:11px 19px;
     background-color:#2A2C2F;
-    grid-template-areas: 'top top' 'left right' ;
+    grid-template-areas: 'top top' 'left right';
     padding: 32px 0 20px;
     justify-content: center;
 }
