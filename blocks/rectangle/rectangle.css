@@ -1,4 +1,4 @@
 
-.rectangle__top { grid-area: top;}
-.rectangle__left { grid-area: left;}
-.rectangle__rigt { grid-area: right;}
+.rectangle_top { grid-area: top;}
+.rectangle_left { grid-area: left;}
+.rectangle_rigt { grid-area: right;}
