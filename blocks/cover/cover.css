@@ -1,8 +1,7 @@
-@import url(./cover-content/cover-content.css);
- @import url(./cover-title/cover-title.css);
- @import url(./cover-quote/cover-quote.css);
+@import url(./__content/cover__content.css);
+ @import url(./__title/cover__title.css);
+ @import url(./__quote/cover__quote.css);
  @import url(../button/button.css);
- @import url(./cover-link/cover-link.css);
  @import url(./__button/cover__button.css);
  .cover{
      background-image: url(../../images/background.jpg);
