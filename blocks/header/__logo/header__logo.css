@@ -1,11 +1,11 @@
-.header__logo{
-    max-width:100%;
-    display: grid;
-    grid-gap: 2px;
-    grid-template-rows: 6px 24px;
-    grid-template-columns:11px 19px;
-    background-color:#2A2C2F;
-    grid-template-areas: 'top top' 'left right';
-    padding: 32px 0 20px;
-    justify-content: center;
+.header__logo {
+  max-width: 100%;
+  display: grid;
+  grid-gap: 2px;
+  grid-template-rows: 6px 24px;
+  grid-template-columns: 11px 19px;
+  background-color: #2a2c2f;
+  grid-template-areas: "top top" "left right";
+  padding: 32px 0 20px;
+  justify-content: center;
 }

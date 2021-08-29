@@ -1,13 +1,11 @@
-.place__button{
-
-   margin-top: 48px;
-   grid-area: btn;
+.place__button {
+  margin-top: 48px;
+  grid-area: btn;
 }
 
 @media screen and (max-width: 550px) {
-   .place__button{
-   min-width: 208px;
-   margin: 0 auto 0;
-
-   }
+  .place__button {
+    min-width: 208px;
+    margin: 0 auto 0;
+  }
 }

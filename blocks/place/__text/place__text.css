@@ -1,6 +1,5 @@
-.place__text:nth-last-child(){
-
-    padding-bottom: 0;
-    max-width: 100%;
-    grid-area: text;
+.place__text:nth-last-child() {
+  padding-bottom: 0;
+  max-width: 100%;
+  grid-area: text;
 }

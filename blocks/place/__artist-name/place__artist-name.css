@@ -1,10 +1,8 @@
-.place__artist-name{
-
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 122%;
-    padding-bottom: 8px;
-    margin: 0;
+.place__artist-name {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 122%;
+  padding-bottom: 8px;
+  margin: 0;
 }
-

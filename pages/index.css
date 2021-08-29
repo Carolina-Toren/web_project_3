@@ -1,12 +1,6 @@
 @import url(../blocks/page/page.css);
 @import url(../vendor/fonts/fonts.css);
-
-
-.page{
-    background-color: #2A2C2F;
-    
-
-
-    font-family: 'Inter', 'sans-serif';
-
-}
+@import url(../vendor/normalize.css);
+@import url(../blocks/button/_ntf/button_nft.css);
+@import url(../blocks/button/_tickets/button_tickets.css);
+@import url(../blocks/button/button.css);

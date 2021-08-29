@@ -1,20 +1,19 @@
 # Project 3: From Homland to Homeland
 
 ### Overview
-* Intro
-* Figma
-* Images
+
+- Intro
+- Figma
+- Images
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
 
-**Figma**
+**Description of technologies used**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+**URL to My Website**
 
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+[From Homland to Homeland](https://carolina-toren.github.io/web_project_3/)
 
 Good luck and have fun!

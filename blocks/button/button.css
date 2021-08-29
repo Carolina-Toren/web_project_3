@@ -1,8 +1,13 @@
-@import url(./_ntf/button_nft.css);
-@import url(./_tickets/button_tickets.css);
-
-
-.button:hover{
-    background-color:#0063D2;
+.button {
+  align-content: center;
+  background-color: #0278fe;
+  max-width: 248px;
+  max-height: 48px;
+  text-align: center;
+  padding: 0;
+  border-radius: 4px;
 }
 
+.button:hover {
+  background-color: #0063d2;
+}

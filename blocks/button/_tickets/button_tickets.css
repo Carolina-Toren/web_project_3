@@ -1,19 +1,17 @@
-.button_tickets{
-    border: none;
-    background-color: #0278FE;
-    color: #FFFFFF;
-    cursor: pointer;
-    display: inline-block;
-    height: 48px;
-    border-radius: 4px;
-    font-style: normal;
-    font-size: 18px;
-    line-height: 22px;
-    padding: 13px 20px;
-    font-family: Inter;
+.button_tickets {
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  padding: 13px 20px;
+  font-family: Inter;
+  text-decoration: none;
 }
 @media screen and (max-width: 390px) {
-    .button__tickets{
-        margin: 0 auto 45px;
-   }
+  .button__tickets {
+    margin: 0 auto 45px;
+  }
 }

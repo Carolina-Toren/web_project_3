@@ -1,17 +1,12 @@
-.places__list{
-
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    max-width: 987px;
+.places__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-width: 987px;
 }
 
-
 @media screen and (max-width: 400px) {
-
-    .places__list{
-
-        max-width:100%;
-    }
-    
+  .places__list {
+    max-width: 100%;
+  }
 }
