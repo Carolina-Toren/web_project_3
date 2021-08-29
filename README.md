@@ -1,19 +1,27 @@
-# Project 3: From Homland to Homeland
+Heading
+=======
+Project 3: From Homland to Homeland
 
 ### Overview
 
 - Intro
-- Figma
-- Images
+- subjects
+- URL
 
 **Intro**
 
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is the third assignments on the Yandex Practicum Web Developer curse.
 
-**Description of technologies used**
+---
 
-**URL to My Website**
+1. BEM method
+2. animation and transition with css
+3. positioning elements
+4. Flexbox
+5. File structure
+6. embedging content
 
-[From Homland to Homeland](https://carolina-toren.github.io/web_project_3/)
+**URL**
+You can see the end resault [here](https://carolina-toren.github.io/web_project_3/) in GitHub pages
 
-Good luck and have fun!
+**_Bazinga_**
