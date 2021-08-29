@@ -24,4 +24,4 @@ This is the third assignments on the Yandex Practicum Web Developer curse.
 **URL**
 You can see the end resault [here](https://carolina-toren.github.io/web_project_3/) in GitHub pages
 
-**_Bazinga_**
+**_Bazinga_** :clown_face:
