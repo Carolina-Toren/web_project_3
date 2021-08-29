@@ -1,6 +1,4 @@
-Heading
-=======
-Project 3: From Homland to Homeland
+# Project 3: From Homland to Homeland
 
 ### Overview
 
