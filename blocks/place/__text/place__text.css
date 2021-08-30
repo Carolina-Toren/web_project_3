@@ -1,4 +1,8 @@
-.place__text:nth-last-child() {
+.place__text {
+  grid-area: text;
+}
+
+.place__text:last-child {
   padding-bottom: 0;
   max-width: 100%;
   grid-area: text;

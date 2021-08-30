@@ -8,7 +8,7 @@
   padding-bottom: 25px;
 }
 
-.place__paragraph:nth-last-child() {
+.place__paragraph:last-child {
   padding-bottom: 0;
 }
 

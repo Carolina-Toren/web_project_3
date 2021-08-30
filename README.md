@@ -21,6 +21,7 @@ This is the third assignments on the Yandex Practicum Web Developer curse.
 5. File structure
 6. embedging content
 7. CSS @media Rule
+8. responsive layout
 
 ---
 

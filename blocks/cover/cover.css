@@ -26,9 +26,9 @@
     background-repeat: no-repeat;
   }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 540px) {
   .cover {
-    background-size: 100% 100%;
-    min-height: 254px;
+    background-size: 100%;
+    min-height: 100%;
   }
 }

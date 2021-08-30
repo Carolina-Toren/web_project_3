@@ -4,11 +4,12 @@
   line-height: 104%;
   text-align: center;
   min-width: calc(100% - 194px);
+  margin: 0 auto 32px;
 }
 @media screen and (max-width: 860px) {
   .lead__title {
     min-width: calc(100% - 48px);
-    margin: 0 24px;
+    margin: 0 24px 32px;
   }
 }
 @media screen and (max-width: 498px) {

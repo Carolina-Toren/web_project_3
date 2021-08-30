@@ -1,6 +1,6 @@
 .place__button {
-  margin-top: 48px;
   grid-area: btn;
+  width: 248px;
 }
 
 @media screen and (max-width: 550px) {
