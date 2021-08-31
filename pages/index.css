@@ -7,8 +7,8 @@
 @import url(../vendor/normalize.css);
 
 /*<~~~~~~button css~~~~~~>*/
-@import url(../blocks/button/_ntf/button_nft.css);
-@import url(../blocks/button/_tickets/button_tickets.css);
+@import url(../blocks/button/_ntf/button__nft.css);
+@import url(../blocks/button/_tickets/button__tickets.css);
 @import url(../blocks/button/button.css);
 
 /*<~~~~~~content css~~~~~~>*/
