@@ -1,16 +1,15 @@
 .cover {
-  background-image: url(../../images/background.jpg);
   width: calc(100% - 96px);
   min-height: 740px;
-  background-position: center;
-  background-size: cover;
   text-align: center;
   display: flex;
   margin: 0 auto;
+  position: relative;
 }
-.cover:hover {
-  background-color: #2a2c2f;
-  opacity: 0.8;
+
+.cover .content__cover:hover {
+  background-color: transparent;
+  opacity: 1;
 }
 @media screen and (max-width: 860px) {
   .cover {

@@ -8,6 +8,6 @@
   border-radius: 4px;
 }
 
-.button:hover {
+.place__button:hover > .button {
   background-color: #0063d2;
 }
