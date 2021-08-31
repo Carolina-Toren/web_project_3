@@ -1,17 +1,5 @@
-@import url(../lead/lead.css);
- @import url(../header/header.css);
- @import url(./__container/page__container.css);
- @import url(../photo-grid/photo-grid.css);
- @import url(../places/places.css);
- @import url(../intro/intro.css);
- @import url(../place/place.css);
- @import url(../footer/footer.css);
- @import url(../cover/cover.css);
- .page{
-     margin: 0;
-     background-color: #2A2C2F; 
-     font-family: 'Inter', 'sans-serif'; 
-  
- } 
-
-
+.page {
+  margin: 0;
+  background-color: #2a2c2f;
+  font-family: "Inter", "sans-serif";
+}

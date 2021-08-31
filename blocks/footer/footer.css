@@ -1,4 +1,19 @@
-@import url(./__copyright/footer__copyright.css);
 .footer {
-  margin: 0 auto;
+  margin: 92px auto 24px;
+  font-size: 14px;
+  line-height: 16px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 860px) {
+  .footer {
+    margin: 88px auto 24px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .footer {
+    margin: 64px auto 24px;
+  }
 }

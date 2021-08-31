@@ -6,7 +6,11 @@
   font-style: normal;
   font-size: 18px;
   line-height: 22px;
-  font-family: Inter;
   text-decoration: none;
   padding: 13px 20px;
+}
+
+@media screen and (max-width: 550px) {
+  .button_nft {
+  }
 }
