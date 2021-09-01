@@ -1,15 +1,11 @@
+/*<~~~~~~normalize css~~~~~~>*/
+@import url(../vendor/normalize.css);
+
 /*<~~~~~~page css~~~~~~>*/
 @import url(../blocks/page/page.css);
 
 /*<~~~~~~fonts css~~~~~~>*/
 @import url(../vendor/fonts/fonts.css);
-/*<~~~~~~normalize css~~~~~~>*/
-@import url(../vendor/normalize.css);
-
-/*<~~~~~~button css~~~~~~>*/
-@import url(../blocks/button/_ntf/button__nft.css);
-@import url(../blocks/button/_tickets/button__tickets.css);
-@import url(../blocks/button/button.css);
 
 /*<~~~~~~content css~~~~~~>*/
 @import url(../blocks/content/content.css);
@@ -21,6 +17,7 @@
 @import url(../blocks/cover/__button/cover__button.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__hover-effect/cover__hover-effect.css);
+@import url(../blocks/cover/__button-tickets/cover__button-tickets.css);
 
 /*<~~~~~~footer css~~~~~~>*/
 @import url(../blocks/footer/footer.css);
@@ -65,6 +62,7 @@
 @import url(../blocks/place/__button/place__button.css);
 @import url(../blocks/place/__artist-name/place__artist-name.css);
 @import url(../blocks/place/__artist-header/place__artist-header.css);
+@import url(../blocks/place/__button-nft/place__button-nft.css);
 
 /*<~~~~~~places css~~~~~~>*/
 @import url(../blocks/places/places.css);

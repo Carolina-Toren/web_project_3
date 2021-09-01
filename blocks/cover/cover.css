@@ -7,10 +7,6 @@
   position: relative;
 }
 
-.cover .content__cover:hover {
-  background-color: transparent;
-  opacity: 1;
-}
 @media screen and (max-width: 860px) {
   .cover {
     margin: 0 auto;

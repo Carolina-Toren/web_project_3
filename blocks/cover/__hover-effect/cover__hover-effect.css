@@ -6,9 +6,10 @@
   background-image: url(../../../images/background.jpg);
   background-position: center;
   background-size: cover;
+  opacity: 1;
 }
 
-.cover__hover-effect:hover {
+.cover:hover .cover__hover-effect {
   background-color: #2a2c2f;
   opacity: 0.8;
   cursor: pointer;

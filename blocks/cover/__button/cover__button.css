@@ -1,6 +1,12 @@
 .cover__button {
-  max-width: 137px;
   margin: 0 auto;
+  width: 137px;
+  align-content: center;
+  background-color: #0278fe;
+  max-height: 48px;
+  text-align: center;
+  padding: 0;
+  border-radius: 4px;
 }
 
 .cover__button:hover {
