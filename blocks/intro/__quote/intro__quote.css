@@ -17,6 +17,6 @@
   .intro__quote {
     line-height: 125%;
     margin: 40px auto 0;
-    min-width: 288px;
+    width: 100%;
   }
 }
